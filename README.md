@@ -11,10 +11,10 @@ This repository deals with the micro-services based architecture for e commerce 
 6. Eureka Service discovery
 7. Spring Cloud config server
 
-To use this repository follow the steps given below
+To use this repository effectively follow the steps given below
 # Mongo DB
 1. Download and install mongo db.
-2. Configure the DB path and start the mongodb.
+2. Configure the DB path and then start the mongodb.
 # Github Repositories
 1. Clone the repositories to you local drive.
 2. Start the individual services in this order  
